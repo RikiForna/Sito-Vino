@@ -1,0 +1,4 @@
+"use strict"
+
+var giostre = ["Autoscontri","Stanza degli specchi", "Seggiole volanti", "Montagne Russe"];
+var descrizioni = ["consiste in una pista, di forma quadrata o rettangolare, sulla quale corrono molte piccole automobili munite di scocca che consente alle vetture di scontrarsi ripetutamente le une con le altre senza conseguenze negative n per le stesse n per gli occupanti.",  "e' un labirinto composto da specchi deformanti che alterano la prospettiva, per cui passeggiando attraverso questi corridoi vedremo la nostra immagine distorta.", "ruota velocemente facendo saltare in alto i seggiolini che vi sono appesi con lo scopo di prendere al volo un oggetto appeso in alto.", "costituito da una incastellatura a foggia di otto orizzontale su cui corrono, seguendo un binario, dei carrelli agganciati l'uno all'altro."];
